@@ -5,7 +5,7 @@ modificacion
 
 ---
 -Primer punto.
- -**``Mi segundo``**punto de ejemplo
+ -**``Mi segundo``**punto de ejemplo en git
 
  cmd
  npx gh_pages -d .
