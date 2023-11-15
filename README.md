@@ -1,4 +1,6 @@
-# Mi Sitio Web
-## ejemplo
-### Mis tareas
-*yani*
+# Titulo
+## Titulo
+### Sitio Web
+
+- [ ] mi primer conflicto solucionado
+
